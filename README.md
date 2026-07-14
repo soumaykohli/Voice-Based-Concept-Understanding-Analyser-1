@@ -138,7 +138,7 @@ VBCUA
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/VBCUA.git
+https://github.com/soumaykohli/Voice-Based-Concept-Understanding-Analyser.git
 ```
 
 ---
