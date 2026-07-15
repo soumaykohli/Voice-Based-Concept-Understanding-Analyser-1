@@ -14,6 +14,16 @@ The system provides an objective assessment by combining semantic understanding 
 
 ---
 
+# 🎥 Project Demo
+
+A complete demonstration of the Voice-Based Concept Understanding Analyser is available below.
+
+**Demo Video (Google Drive):**
+
+👉 **[Watch the Demo Video]https://drive.google.com/file/d/1DCg-JZ6t1rJo-iNeNwfYsjY4h5oLemOp/view?usp=sharing**
+
+---
+
 # ✨ Features
 
 - 🎤 Upload spoken explanations (WAV/MP3)
