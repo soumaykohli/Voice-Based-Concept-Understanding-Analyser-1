@@ -18,9 +18,17 @@ The system provides an objective assessment by combining semantic understanding 
 
 A complete demonstration of the Voice-Based Concept Understanding Analyser is available below.
 
+**Deployed URL(Streamlit Community Cloud:**
+
+👉 **[Access the Deployment] https://voice-based-concept-understanding-analyser-gh3u9lyi9cnzn8vlpv5.streamlit.app/**
+
 **Demo Video (Google Drive):**
 
-👉 **[Watch the Demo Video]https://drive.google.com/file/d/1DCg-JZ6t1rJo-iNeNwfYsjY4h5oLemOp/view?usp=sharing**
+👉 **[Watch the Demo Video] https://drive.google.com/file/d/1DCg-JZ6t1rJo-iNeNwfYsjY4h5oLemOp/view?usp=sharing**
+
+**Source Code (Github Repository):**
+
+👉 **[Source Code] https://github.com/soumaykohli/Voice-Based-Concept-Understanding-Analyser.git**
 
 ---
 
